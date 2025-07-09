@@ -17,4 +17,4 @@ python main.py
 
 ## Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Prince Sharma ]
